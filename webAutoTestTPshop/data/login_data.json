@@ -1,0 +1,23 @@
+{
+  "login_account_not_exit": {
+    "username": "15800000011",
+    "password": "123456",
+    "code": "8888",
+    "expect": "账号不存在",
+    "is_success": false
+  },
+  "login_password_error": {
+    "username": "15800000001",
+    "password": "error",
+    "code": "8888",
+    "expect": "密码错误",
+    "is_success": false
+  },
+  "login_success": {
+    "username": "15800000001",
+    "password": "123456",
+    "code": "8888",
+    "expect": "我的账户",
+    "is_success": true
+  }
+}
